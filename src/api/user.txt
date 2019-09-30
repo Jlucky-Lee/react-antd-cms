@@ -1,0 +1,4 @@
+文章的分页和每页显示多少的接口：http://localhost:3000/data?_page=2&_limit=5
+获取所有的文章使用：http://localhost:3000/data
+根据id查询文章http://localhost:3000/data/id
+根据关键字查询相应的记录：http://localhost:3000/data?q=标题
